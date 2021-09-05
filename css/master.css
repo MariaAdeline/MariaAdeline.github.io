@@ -1,5 +1,3 @@
-/* Cascading stylesheet for the website */
-
 /* Text inside these asterisks and slashes are comments for human */
   a {
     color: blue;/* set the text color to blue here */
@@ -31,8 +29,6 @@
 
   h2 {
     color: #075AAB;  /* set the text color of to #075AAB here */
-    /* set both the bottom margin and top margin to 2.5rem here */
-    margin-bottom: 1rem;
     margin-top: 1rem;
    }
 
