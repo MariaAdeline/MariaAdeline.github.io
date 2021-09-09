@@ -10,11 +10,11 @@
   }
 
   body {
-    background-color: #F5F5DC;
-    color: black;/* set the background color here */
-    font-family: Arial, Helvetica, sans-serif;/* set the text color to black here */
-    text-align: center;/* set the font here */
-    /* set the text alignment here */
+    background-image: linear-gradient(to right, #F5F5DC,#F0FFFF);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
    }
 
   footer {
@@ -29,7 +29,8 @@
 
   h2 {
     color: #075AAB;  /* set the text color of to #075AAB here */
-    margin-top: 1rem;
+    margin-top: 2rem;
+    margin-bottom:0;
    }
 
   h3 {
